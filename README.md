@@ -17,13 +17,20 @@ and which region they should invest more on which region.
 #conclusion
 
 Top performing channel
+
 In-store channel had the highest sales value followed by Direct
 almost similar to the ones of in-store.
+
 Top performing sales person
+
 Delven Norbury had the highest amount of sales which amounted to$9995 and he his fromregion Europe.
+
 under performing channels
+
 Distributor was the most underperforming channel .
+
 under performing region
+
 Africa was the most underperforming region with
 $939968 sales.
 
