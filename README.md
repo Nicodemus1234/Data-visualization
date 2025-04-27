@@ -1,2 +1,4 @@
-# Data-visualization
-in creating the dashboard it involved several processes like Data transformation,statistical analysis ,data analysis and Data visualization.
+# Data analysis Dashboard 
+#project ibjectives
+The data analysis dashboard wants to create sales report in different regions and sales based on different sales channel so that they can understand which sales channel is more effective
+and which region they should invest more on which region.
