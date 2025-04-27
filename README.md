@@ -4,3 +4,5 @@ i developed a project in excel creating dashboard which involved several process
 ##project objectives
 The data analysis dashboard wants to create sales report in different regions and sales based on different sales channel so that they can understand which sales channel is more effective
 and which region they should invest more on which region.
+#Data set used
+<a href="https://github.com/Nicodemus1234/Data-visualization/blob/53be7e3b3ef7cbca7cf7f086225963f6af80c884/DASHBOARD%205.xlsx">data store</a>
